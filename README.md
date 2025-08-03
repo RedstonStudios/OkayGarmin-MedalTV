@@ -99,10 +99,8 @@
 ## 🖥️ System Requirements / Systemanforderungen
 
 ### Minimum Requirements / Mindestanforderungen
-- **Windows**: Windows 7 or later
-- **macOS**: macOS 10.12 or later  
-- **Linux**: Ubuntu 16.04+ or equivalent
-- **RAM**: 50 MB available memory
+- **Windows**: Windows 10 or later
+- **RAM**: 2 GB available memory
 - **Network**: Local WiFi connection
 
 ### Recommended / Empfohlen
