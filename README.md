@@ -147,7 +147,7 @@
 |---------|-------------------|
 | "Server not found" | Check if PC and phone are on same WiFi network |
 | "Microphone not working" | Allow microphone access in browser settings |
-| "Commands not recognized" | Use Chrome browser, speak clearly |
+| "Commands not recognized" | Use another browser, speak clearly |
 | "Keyboard shortcuts not working" | Run application as administrator |
 
 ---
